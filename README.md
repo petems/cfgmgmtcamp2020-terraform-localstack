@@ -1,4 +1,4 @@
-# cfgmgmt-terraform-localstack
+# cfgmgmtcamp2020-terraform-localstack
 
 A quick demo of using Localstack to "mock the internet" and pretend to be AWS
 
